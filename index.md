@@ -5,15 +5,15 @@
 ### Exploratory Analysis
 
 [Project 1 Title](/sample_page)
-<img /><img src="images/citycrimes.png"/>
-<img /><img src="images/legend.PNG"/>
+<img /src="images/citycrimes.png"/>
+<img /src="images/legend.PNG"/>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/topcrimes"/>
+<img src="images/topcrimes.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/nbcrime"/>
+<img src="images/nbcrime.png"/>
 
 ---
 
