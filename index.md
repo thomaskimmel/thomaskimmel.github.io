@@ -1,8 +1,8 @@
-## Portfolio
+## Analysis of Crimes Involving Firearms in Kansas City, Missouri
 
 ---
 
-### Category Name 1 
+### Exploratory Analysis
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
