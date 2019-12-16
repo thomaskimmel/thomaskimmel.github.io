@@ -5,8 +5,8 @@
 ### Exploratory Analysis
 
 [Project 1 Title](/sample_page)
-<img src="images/KCcrime.png"/>
-
+<img src="images/citycrimes.png"/>
+<img src="images/legend.PNG"/>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/topcrimes.png"/>
